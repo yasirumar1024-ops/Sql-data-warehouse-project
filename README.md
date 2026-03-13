@@ -36,6 +36,6 @@ This project is licensed under the [MIT License].(LICENSE). You are free to use,
 
 ## About Me
 
-Hello & Assalamolikum ! I'm **Muhammad Yasir** and currently engaged in the development of a Data Warehousing project using SQL Server. This project includes data extraction, transformation, and loading (ETL), dimensional modeling, and performance optimization techniques.
+Hello and Assalamolikum ! I'm **Muhammad Yasir** and currently engaged in the development of a Data Warehousing project using SQL Server. This project includes data extraction, transformation, and loading (ETL), dimensional modeling, and performance optimization techniques.
 
 Through this project, I aim to strengthen my understanding of database systems and prepare myself for a professional role in data analytics and business intelligence.
